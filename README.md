@@ -1,7 +1,24 @@
-# Ryan Evans 
-# Creative Code Portfolio!
+# A clean and beautiful portfolio template Based On VSCode Theme!
 
 ![Template Screenshot](/public/Screenshot_Template.png?raw=true "Screenshot-template")
+
+
+
+To view a live example, <a href="https://kizou.org">click here.</a>
+
+Feel free to use it as-is or customize it as much as you want.
+
+If you want to contribute and make this much better for other developers, have a look at <a href="https://github.com/YKizou/VSCode_Template/issues">Issues</a>.
+
+If you created something awesome and want to contribute, then feel free to open a <a href="https://github.com/YKizou/VSCode_Template/pulls">pull request</a>.
+
+
+## Features
+<ul>
+  <li>Responsive</li>
+  <li>Unique Design</li>
+  <li>Easy to use</li>
+</ul>
 
 ## Sections
 ✔️ Header  ✔️ About  ✔️ Resume   ✔️ Contact  ✔️ LeftBar  
@@ -25,7 +42,7 @@ $ yarn start
 
 
 ## Deployment
-<a href="https://create-react-app.dev/docs/deployment/#github-pages">Deploying on Github Pages</a> docs for React.
+When you are done with the setup, you should host your website online. We highly recommend to read through the <a href="https://create-react-app.dev/docs/deployment/#github-pages">Deploying on Github Pages</a> docs for React.
 
 ## Technologies Used
 <ul>
@@ -34,7 +51,7 @@ $ yarn start
 </ul>
 
 ## Thanks
-If you like this portfolio template, don't forget to give it a ⭐ and also share it with me <a href="mailto:ryanevanscodes@gmail.com">here</a>.
+If you like this portfolio template, don't forget to give it a ⭐ and also share it with me <a href="mailto:hello@kizou.org">here</a>.
 
 
 

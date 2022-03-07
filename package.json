@@ -1,7 +1,7 @@
 {
   "name": "ryanevans_creativecodes",
   "version": "0.1.0",
-  "homepage": "https://github.com/rdevans87/RyanEvans_CreativeCodes",
+  "homepage": "http://kizou.org",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.5",

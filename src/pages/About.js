@@ -30,10 +30,13 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-          This is not just a website. It's an open window peering deep into my soul. 
-          A doorway to the vast reaches of my mind. A brief glimpse into the dark caverns
-          of my creavity.Everything you need to know about me is right here. My fears, failures, hopes, and dreams poured
-          out on paper like an infinite stream of water rushing through my fingers and taken by the current down an endless river of ideas. To be a writer, to actually sit down and write a story  from start to finish is both incredibly gratifying and completely depressing . To put that much time and effort into something that you truly care about without ever really knowing if anyone will read it. What's worse is reading your own story and  wondering if it's actually any good or just a complete waste of time. I often ask myself these very same questions and there is no real answer just a little voice inside my head that tells me to "Keep Writing" regardless of the outcome. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id eros
+            non nisi vulputate eleifend. Vestibulum erat ipsum, lacinia ut nibh
+            ut, pulvinar interdum lorem. Aliquam et nisi eu risus ultrices
+            suscipit nec nec quam. Suspendisse pretium fermentum luctus.
+            Maecenas vitae vestibulum ipsum, ut varius diam. Phasellus mattis
+            nunc vel purus maximus, sit amet congue ligula tincidunt. Nulla
+            tristique luctus lacinia. Nullam ut tortor arcu.
           </code>
           <br />
           <br />
