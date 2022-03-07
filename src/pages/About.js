@@ -30,13 +30,14 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id eros
-            non nisi vulputate eleifend. Vestibulum erat ipsum, lacinia ut nibh
-            ut, pulvinar interdum lorem. Aliquam et nisi eu risus ultrices
-            suscipit nec nec quam. Suspendisse pretium fermentum luctus.
-            Maecenas vitae vestibulum ipsum, ut varius diam. Phasellus mattis
-            nunc vel purus maximus, sit amet congue ligula tincidunt. Nulla
-            tristique luctus lacinia. Nullam ut tortor arcu.
+          This is not just a website. It's an open window peering deep into my soul. A doorway to the vast reaches of my mind. 
+          A brief glimpse into the dark caverns of my creavity.  Everything you need to know about me is right here. My fears,
+          failures, hopes, and dreams poured out on paper like an infinite stream of water rushing through my fingers down an 
+          endless river of ideas. To be a writer, to actually sit down and write a story  from start to finish is both incredibly 
+          gratifying and completely depressing . To put that much time and effort into something that you truly care about without 
+          ever really knowing if anyone will read it. What's worse is reading your own story and  wondering if it's actually any 
+          good or just a complete waste of time. I often ask myself these very same questions and there is no real answer just a 
+          little voice inside my head that tells me to "Keep Writing" regardless of the outcome. 
           </code>
           <br />
           <br />
@@ -59,23 +60,7 @@ const About = () => {
                 alt="Next Logo"
                 className="h-5 mr-4 ml-3 text-yellow_vs"
               />
-              <code>Next.js</code>
-            </div>
-            <div className="flex flex-row col-start-3 mb-3">
-              <img
-                src={ReactLogo}
-                alt="React Logo"
-                className="h-5 mr-3 ml-3 text-yellow_vs"
-              />
               <code>React</code>
-            </div>
-            <div className="flex flex-row col-start-1 mb-3">
-              <img
-                src={TypescriptLogo}
-                alt="Typescript Logo"
-                className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
-              />
-              <code>TypeScript</code>
             </div>
             <div className="flex flex-row col-start-2 mb-3">
               <img
@@ -85,31 +70,7 @@ const About = () => {
               />
               <code>Tailwind CSS</code>
             </div>
-            <div className="flex flex-row col-start-3 mb-3">
-              <img
-                src={ReduxLogo}
-                alt="Redux Logo"
-                className="h-5 mr-2 ml-3 text-yellow_vs"
-              />
-              <code>Redux</code>
-            </div>
-            <div className="flex flex-row col-start-1 mb-3">
-              <img
-                src={PythonLogo}
-                alt="Python Logo"
-                className="h-5 mr-4 ml-3 text-yellow_vs"
-              />
-              <code>Python</code>
-            </div>
             <div className="flex flex-row col-start-2 mb-3">
-              <img
-                src={FirebaseLogo}
-                alt="Firebase Logo"
-                className="h-5 mr-2  ml-3 text-yellow_vs"
-              />
-              <code>Firebase</code>
-            </div>
-            <div className="flex flex-row col-start-3 mb-3">
               <img
                 src={NodeJSLogo}
                 alt="NodeJS Logo"
