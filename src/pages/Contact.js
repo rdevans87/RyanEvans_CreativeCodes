@@ -13,7 +13,7 @@ const Contact = () => {
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-60 flex flex-col items-center text-justify">
         <code>
-        Open to independent projects and collaborative opportunities. Hit the button below to get in touch!
+        Open to independent projects and collaborative opportunities. Hit the email button below to get in touch!
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
           <a href="mailto:ryanevanscreative@gmail.com">
