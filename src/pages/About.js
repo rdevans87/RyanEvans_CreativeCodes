@@ -1,18 +1,7 @@
 import React from "react";
 import { IdentificationIcon } from "@heroicons/react/solid";
 
-const PythonLogo = require("../assets/PythonLogo.png");
-const ReactLogo = require("../assets/ReactLogo.png");
-const TypescriptLogo = require("../assets/TypescriptLogo.png");
-const JsLogo = require("../assets/JsLogo.png");
-const NextLogo = require("../assets/NextLogo.png");
-const TailwindLogo = require("../assets/TailwindLogo.png");
-const SqlLogo = require("../assets/SqlLogo.png");
-const ReduxLogo = require("../assets/ReduxLogo.png");
-const FirebaseLogo = require("../assets/FirebaseLogo.png");
-const MongoDBLogo = require("../assets/MongoDBLogo.png");
-const NodeJSLogo = require("../assets/NodeJSLogo.png");
-const DockerLogo = require("../assets/DockerLogo.png");
+
 
 const About = () => {
   return (
@@ -42,68 +31,7 @@ const About = () => {
           <br />
           <br />
           <code>Aenean in mi non leo placerat suscipit a eget odio:</code>
-          <div className="grid grid-cols-3 gap-2 text-sm mt-5 text-brown_vs">
-            {/* <div className='flex flex-row col-start-1 mb-3'><code className='text-[#e6f1ff] underline'>Programming Languages</code></div>
-            <div className='flex flex-row col-start-2 mb-3'><code className='text-[#e6f1ff] underline'>Libraries</code></div>
-            <div className='flex flex-row col-start-3 mb-3'><code className='text-[#e6f1ff] underline'>Frameworks</code></div> */}
-            <div className="flex flex-row col-start-1 mb-3">
-              <img
-                src={JsLogo}
-                alt="Js Logo"
-                className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
-              />
-              <code>JavaScript (ES6+)</code>
-            </div>
-            <div className="flex flex-row col-start-2 mb-3">
-              <img
-                src={NextLogo}
-                alt="Next Logo"
-                className="h-5 mr-4 ml-3 text-yellow_vs"
-              />
-              <code>React</code>
-            </div>
-            <div className="flex flex-row col-start-2 mb-3">
-              <img
-                src={TailwindLogo}
-                alt="Tailwind Logo"
-                className="h-5 mr-4 ml-3 text-yellow_vs"
-              />
-              <code>Tailwind CSS</code>
-            </div>
-            <div className="flex flex-row col-start-2 mb-3">
-              <img
-                src={NodeJSLogo}
-                alt="NodeJS Logo"
-                className="h-5 mr-2  ml-3 text-yellow_vs"
-              />
-              <code>Nodejs</code>
-            </div>
-            <div className="flex flex-row col-start-1 mb-3">
-              <img
-                src={SqlLogo}
-                alt="SQL Logo"
-                className="h-5 mr-2 ml-3 text-yellow_vs"
-              />
-              <code>SQL</code>
-            </div>
-            <div className="flex flex-row col-start-2 mb-3">
-              <img
-                src={MongoDBLogo}
-                alt="MongoDB Logo"
-                className="h-5 mr-2 ml-3 text-yellow_vs"
-              />
-              <code>MongoDB</code>
-            </div>
-            <div className="flex flex-row col-start-3 mb-3">
-              <img
-                src={DockerLogo}
-                alt="MongoDB Logo"
-                className="h-5 mr-2  ml-3 text-yellow_vs"
-              />
-              <code>Docker</code>
-            </div>
-          </div>
-        </div>
+         </div>
       </div>
     </div>
   );

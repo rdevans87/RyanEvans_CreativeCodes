@@ -22,7 +22,7 @@ const LeftBar = (props) => {
       <a href="/">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <CodeIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
-          <p>First Project</p>
+          <p>Poetry</p>
         </div>
       </a>
       <a href="/">

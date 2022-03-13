@@ -7,7 +7,7 @@ const Contact = () => {
       <div className="table mx-60">
         <MailIcon className="h-5 w-5 mr-4 text-yellow_vs" />
         <code className="table-cell text-[#e6f1ff] text-3xl mt-5 whitespace-nowrap">
-          Get In Touch
+          Contact Me
         </code>
         <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
       </div>
@@ -18,8 +18,8 @@ const Contact = () => {
           urna ut neque consectetur vestibulum ut sit amet libero.
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
-          <a href="mailto:yourmailadress@gmail.com">
-            <code>Contact</code>
+          <a href="mailto:ryanevanscreative@gmail.com">
+            <code>Email</code>
           </a>
         </button>
       </div>
