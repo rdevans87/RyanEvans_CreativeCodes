@@ -4,6 +4,7 @@ import Contact from "./Contact";
 import Header from "./Header";
 import LeftBar from "./LeftBar";
 import Resume from "./Resume";
+import Projects from "./Projects";
 
 const Home = () => {
   const [scroll, SetScroll] = useState();
@@ -32,6 +33,7 @@ const Home = () => {
           <Resume id="Resume" />
           {/* <Projects id="Projects"/> */}
           <Contact id="Contact" />
+          <Projects id="Projects" />
         </div>
       </div>
     </>

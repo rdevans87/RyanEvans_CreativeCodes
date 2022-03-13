@@ -9,7 +9,7 @@ import { MailIcon, ClipboardListIcon } from "@heroicons/react/outline";
 
 const GitLogo = require("../assets/GitLogo.png");
 const LinkedinLogo = require("../assets/LinkedinLogo.png");
-const KaggleLogo = require("../assets/KaggleLogo.png");
+const FacebookLogo = require("../assets/KaggleLogo.png");
 const MailLogo = require("../assets/MailLogo.png");
 
 const LeftBar = (props) => {
@@ -96,7 +96,8 @@ const LeftBar = (props) => {
           ) : (
             <ChevronRightIcon className="h-5 w-5 mr-1  text-yellow_vs" />
           )}
-          <p>Projects</p>
+         
+         <p>Portfolio</p>
         </div>
         {showProjectsList ? (
           <>
@@ -110,7 +111,7 @@ const LeftBar = (props) => {
                 <ChevronRightIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
               )}
 
-              <p>Web</p>
+              <p>Creative</p>
             </div>
             {showWebList ? <WebList /> : null}
           </>
@@ -126,7 +127,7 @@ const LeftBar = (props) => {
             </a>
             <a href="/">
               <img
-                src={KaggleLogo}
+                src={FacebookLogo}
                 alt="Kaggle Logo"
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />

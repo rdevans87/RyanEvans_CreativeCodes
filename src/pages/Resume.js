@@ -60,7 +60,7 @@ const Resume = () => {
             <code className="text-yellow_vs">Work</code>
           </div>
           <div className="w-3/4">
-            <code className="text-blue_vs">MRI Software <code className="text-lightblue_vs">Product Owner</code></code>
+            <code className="text-blue_vs">MRI Software, <code className="text-lightblue_vs">Product Owner</code></code>
             <code className="text-blue_vs"></code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
@@ -85,17 +85,10 @@ const Resume = () => {
           </div>
           <div className="w-3/4">
             <code className="text-sm">
-              <br />• Nulla tristique luctus lacinia. Nullam ut tortor arcu.
-              <br />• Aenean in mi non leo placerat suscipit a eget odio.
-              <br />• Vivamus et dolor odio.
-              <br />• Suspendisse tempus interdum eros, et bibendum massa tempus
-              vitae.
-              <br />• Sed in aliquam ligula. Sed eget orci tortor.
-              <br />• Pellentesque laoreet laoreet justo, sed efficitur sapien
-              tincidunt eu.
-              <br />• Nulla tempor nunc eu molestie volutpat. Nunc a accumsan
-              dolor.
-              <br />• Duis ut congue dui.
+              <br />• Agile Software Development, Scrum/Kanban, Mobile First Approach, UI/UX Design.
+              <br />• Github, Heroku, Command Line Interface (CLI), SQL database, MongoDB, object-oriented programming (OOP), 
+                      object-relational mapping (ORM), model-view-controller(MVC), JavaScript, Object Notation (JSON)
+              <br />• Blogs, Entertainment, Real Estate, Social Events, Professional Resumes, Creative Portfolios, E-Commerce.
             </code>
             <div className="grid grid-cols-3 gap-2 text-sm mt-5 text-brown_vs">
             {/* <div className='flex flex-row col-start-1 mb-3'><code className='text-[#e6f1ff] underline'>Programming Languages</code></div>

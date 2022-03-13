@@ -13,9 +13,7 @@ const Contact = () => {
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-60 flex flex-col items-center text-justify">
         <code>
-          Curabitur porta fringilla ex, ut sollicitudin purus congue sed. In
-          eget purus vehicula, ornare libero quis, rutrum sapien. Etiam quis
-          urna ut neque consectetur vestibulum ut sit amet libero.
+        Open to independent projects and collaborative opportunities. Hit the button below to get in touch!
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
           <a href="mailto:ryanevanscreative@gmail.com">
