@@ -3,10 +3,10 @@
 ![Template Screenshot](/public/Screenshot_Template.png?raw=true "Screenshot-template")
 
 ## Contents
-*[About](#about)
-*[Resume](#resume)
-*[Projects](#project)
-*[Contact](#contact)
+* [About](#about)
+* [Resume](#resume)
+* [Projects](#project)
+* [Contact](#contact)
 
 ## Technologies Used
 <ul>
