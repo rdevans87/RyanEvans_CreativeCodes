@@ -1,6 +1,6 @@
 # Ryan Evans Codes - Web Development Portfolio - VSCode Theme!
 
-![Template Screenshot](/public/Screenshot_Template.png?raw=true "Screenshot-template")
+![RyanEvans_VSCodeResume](https://user-images.githubusercontent.com/74195719/160307128-14e148ca-88a3-4c78-8867-2f19ba962299.png)
 
 ## Contents
 * [About](#about)
