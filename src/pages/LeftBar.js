@@ -9,7 +9,7 @@ import { MailIcon, ClipboardListIcon } from "@heroicons/react/outline";
 
 const GitLogo = require("../assets/GitLogo.png");
 const LinkedinLogo = require("../assets/LinkedinLogo.png");
-const FacebookLogo = require("../assets/KaggleLogo.png");
+// const FacebookLogo = require("../assets/);
 const MailLogo = require("../assets/MailLogo.png");
 
 const LeftBar = (props) => {
@@ -22,25 +22,25 @@ const LeftBar = (props) => {
       <a href="/">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <CodeIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
-          <p>Poetry</p>
+          <p>DevDum</p>
         </div>
       </a>
       <a href="/">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <CodeIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
-          <p>Second Project</p>
+          <p>YouTube.Live</p>
         </div>
       </a>
       <a href="/">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12 w-60">
           <CodeIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
-          <p>Third Project</p>
+          <p>Petrax</p>
         </div>
       </a>
       <a href="/">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12 w-60">
           <CodeIcon className="h-5 w-5 ml-5 mr-1   text-yellow_vs" />
-          <p>Fourth Project</p>
+          <p>Weather App</p>
         </div>
       </a>
     </div>
@@ -111,7 +111,7 @@ const LeftBar = (props) => {
                 <ChevronRightIcon className="h-5 w-5 mr-1  ml-5 text-yellow_vs" />
               )}
 
-              <p>Creative</p>
+              <p>Projects</p>
             </div>
             {showWebList ? <WebList /> : null}
           </>
@@ -125,13 +125,13 @@ const LeftBar = (props) => {
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
             </a>
-            <a href="/">
+            {/* <a href="/">
               <img
                 src={FacebookLogo}
                 alt="Kaggle Logo"
                 className="h-10 w-10 text-yellow_vs hover:cursor-pointer hover:h-12 hover:w-12"
               />
-            </a>
+            </a> */}
             <a href="/">
               <img
                 src={LinkedinLogo}

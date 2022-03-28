@@ -19,18 +19,17 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-          This is not just a website. It's an open window peering deep into my soul. A doorway to the vast reaches of my mind. 
-          A brief glimpse into the dark caverns of my creavity.  Everything you need to know about me is right here. My fears,
-          failures, hopes, and dreams poured out on paper like an infinite stream of water rushing through my fingers down an 
-          endless river of ideas. To be a writer, to actually sit down and write a story  from start to finish is both incredibly 
-          gratifying and completely depressing . To put that much time and effort into something that you truly care about without 
-          ever really knowing if anyone will read it. What's worse is reading your own story and  wondering if it's actually any 
-          good or just a complete waste of time. I often ask myself these very same questions and there is no real answer just a 
-          little voice inside my head that tells me to "Keep Writing" regardless of the outcome. 
+          Screenwriter turned Spaghetti-coder with a passion for technology and entertainment. 
+          I've barely scratched the surface of all there is to know about web development, but I intend 
+          to bring the same amount of passion and creativity to my code as I do screenwriting.
+          <br/>
+          <br/>
+          Professional certifications in Full Stack Web Development, Project Management, Agile Methodologies, 
+          Software QA Testing, and Microsoft Azure AI Fundamentals. Knowledge of front-end and back-end libraries 
+          and frameworks for building mobile responsive and progressive web applications: HTML5, CSS3, JavaScript ES6, 
+          React, Node.js, APIs, SQL Database.
           </code>
           <br />
-          <br />
-          <code>Aenean in mi non leo placerat suscipit a eget odio:</code>
          </div>
       </div>
     </div>
